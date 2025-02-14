@@ -4,5 +4,6 @@ function Prime(num) {
         if (num % i === 0) return false;
     }
     return true;
+    
 }
 console.log(Prime(4));
