@@ -5,6 +5,5 @@ function Prime(num) {
     }
     return true;
     
-    
 }
 console.log(Prime(4));
